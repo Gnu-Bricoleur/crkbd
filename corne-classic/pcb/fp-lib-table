@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name kbd)(type KiCad)(uri /data/Doc_Sylvain/Document/kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
+)
